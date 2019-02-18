@@ -30,4 +30,12 @@ A venir ...
 #include <DHT.h>
 
 
-# Liste composant
+# Liste composants
+
++ 1 ESP32
++ 1 DHT11
++ 1 Bread Board
++ 3 cable male/femelle
++ cable micro usb
+
+
