@@ -8,6 +8,8 @@ A venir ...
 
 # Schema montage
 
+![schema](DHT11WIFI.jpg)
+
 
 # Blibliothèque
 
