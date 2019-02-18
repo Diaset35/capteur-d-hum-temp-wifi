@@ -11,5 +11,21 @@ A venir ...
 
 # Blibliothèque
 
+#include <WiFiServer.h>
+
+#include <WiFiClient.h>
+
+#include <WiFi.h>
+
+#include <uTimerLib.h>
+
+#include <Adafruit_MQTT.h>
+
+#include <Adafruit_MQTT_Client.h>
+
+#include <Adafruit_Sensor.h>
+
+#include <DHT.h>
+
 
 # Liste composant
