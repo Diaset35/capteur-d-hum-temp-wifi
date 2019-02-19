@@ -4,7 +4,8 @@ Faire afficher les valeur du capteur de chaleur et d'humidité via l'interface n
 
 # Video
 
-A venir ...
+[![video](https://img.youtube.com/vi/px9Snur4AwU/0.jpg)](https://www.youtube.com/watch?v=px9Snur4AwU)
+
 
 # Schema montage
 
